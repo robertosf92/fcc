@@ -5,7 +5,7 @@ Each clasifier provides 4 basic functions:
 
 -A training function
 
--A testingh function
+-A testing function
 
 -A function that asks for the data required to clasify a data set
 
